@@ -10,12 +10,12 @@ Console.Write("Введите значение, до которого нужно
 int maxNumber = Convert.ToInt32(Console.ReadLine());
 if (minNumber > 0 && maxNumber > 0 && minNumber <= maxNumber)
 {
-int PrintSumNumbers(int start, int end)
-{
-    if (start == end) return start;  
-    return(start + PrintSumNumbers(start + 1, end));    
-}
-Console.WriteLine(PrintSumNumbers(minNumber, maxNumber));
+    int PrintSumNumbers(int start, int end)
+    {
+        if (start == end) return start;
+        return (start + PrintSumNumbers(start + 1, end));
+    }
+    Console.WriteLine(PrintSumNumbers(minNumber, maxNumber));
 }
 else
 {
