@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\bin\Debug\net6.0\Example068.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\bin\Debug\net6.0\Example068.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\bin\Debug\net6.0\Example068.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\bin\Debug\net6.0\Example068.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\bin\Debug\net6.0\Example068.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\refint\Example068.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\Example068.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.17. Seminar 9 Home\Example068\obj\Debug\net6.0\ref\Example068.dll
